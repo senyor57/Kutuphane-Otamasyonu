@@ -1,0 +1,13 @@
+C:\Users\ozans\source\repos\KutuphaneOtamasyonu\KutuphaneOtamasyonu\bin\Debug\KutuphaneOtamasyonu.exe.config
+C:\Users\ozans\source\repos\KutuphaneOtamasyonu\KutuphaneOtamasyonu\bin\Debug\KutuphaneOtamasyonu.exe
+C:\Users\ozans\source\repos\KutuphaneOtamasyonu\KutuphaneOtamasyonu\bin\Debug\KutuphaneOtamasyonu.pdb
+C:\Users\ozans\source\repos\KutuphaneOtamasyonu\KutuphaneOtamasyonu\obj\Debug\KutuphaneOtamasyonu.csproj.AssemblyReference.cache
+C:\Users\ozans\source\repos\KutuphaneOtamasyonu\KutuphaneOtamasyonu\obj\Debug\KutuphaneOtamasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ozans\source\repos\KutuphaneOtamasyonu\KutuphaneOtamasyonu\obj\Debug\KutuphaneOtamasyonu.Form1.resources
+C:\Users\ozans\source\repos\KutuphaneOtamasyonu\KutuphaneOtamasyonu\obj\Debug\KutuphaneOtamasyonu.Properties.Resources.resources
+C:\Users\ozans\source\repos\KutuphaneOtamasyonu\KutuphaneOtamasyonu\obj\Debug\KutuphaneOtamasyonu.csproj.GenerateResource.cache
+C:\Users\ozans\source\repos\KutuphaneOtamasyonu\KutuphaneOtamasyonu\obj\Debug\KutuphaneOtamasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ozans\source\repos\KutuphaneOtamasyonu\KutuphaneOtamasyonu\obj\Debug\KutuphaneOtamasyonu.exe
+C:\Users\ozans\source\repos\KutuphaneOtamasyonu\KutuphaneOtamasyonu\obj\Debug\KutuphaneOtamasyonu.pdb
+C:\Users\ozans\source\repos\KutuphaneOtamasyonu\KutuphaneOtamasyonu\obj\Debug\KutuphaneOtamasyonu.AdminSayfası.resources
+C:\Users\ozans\source\repos\KutuphaneOtamasyonu\KutuphaneOtamasyonu\obj\Debug\KutuphaneOtamasyonu.uyeSayfası.resources
